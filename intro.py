@@ -1,2 +1,2 @@
 import numpy as np
-numpy is named from numerical python
+#this is the first file
